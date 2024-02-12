@@ -4,10 +4,10 @@
 
 Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passionate Full Stack Web Developer and Designer, on a mission to transform ideas into stunning digital experiences.
 
-### 💻 Technical Wizardry:
+### 💻 Technical Expertise:
 
 - **Front-End Technologies:** HTML, CSS, JavaScript, Bootstrap 5, jQuery
-- **Back-End Technologies:** PHP, SQl, MySQL, Laravel
+- **Back-End Technologies:** PHP, SQL, MySQL, Laravel
 - **Design Enchantment:** Adobe Photoshop, Canva
 - **Tools :** Visual Studio Code, Visual Studio, Xampp, MS Office, and other IDEs
 
