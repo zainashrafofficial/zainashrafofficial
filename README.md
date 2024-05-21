@@ -6,8 +6,8 @@ Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passion
 
 ### 💻 Technical Expertise:
 
-- **Front-End Technologies:** HTML, CSS, JavaScript, Bootstrap 5, jQuery
-- **Back-End Technologies:** PHP, SQL, MySQL, Laravel
+- **Front-End Technologies:** HTML, CSS, JavaScript, Bootstrap 5, jQuery & React JS
+- **Back-End Technologies:** PHP, SQL, MySQL
 - **Design Enchantment:** Adobe Photoshop, Canva
 - **Tools :** Visual Studio Code, Visual Studio, Xampp, MS Office, and other IDEs
 
