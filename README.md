@@ -1,22 +1,24 @@
 # Hi there, I'm Zain Ashraf 👋
 
-## 🚀 Full Stack Web Developer | Designer 🎨
+## 🚀 Software Engineer | Full Stack Developer | Designer 🎨
 
 Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passionate Full Stack Web Developer and Designer, on a mission to transform ideas into stunning digital experiences.
 
 ### 💻 Technical Expertise:
 
-- **Front-End Technologies:** HTML, CSS, JavaScript, Bootstrap 5, jQuery & React JS
-- **Back-End Technologies:** PHP, SQL, MySQL
+- **Front-End Technologies:** HTML, CSS, JavaScript, Bootstrap 5, jQuery, React JS, Next JS
+- **Back-End Technologies:** PHP, NodeJS, ExpressJS
+- **Database Design:** SQL, MS Access, MySQL, MongoDB
 - **Design Enchantment:** Adobe Photoshop, Canva
-- **Tools :** Visual Studio Code, Visual Studio, Xampp, MS Office, and other IDEs
+- **Tools :** MS Office, Visual Studio Code, Xampp, Postman, Visual Studio and other IDEs
+- **Moreover :** C++, C# and Dot Net Framework(desktop development)
 
 ### ✨ What I Do:
 
 - Craft robust and interactive web applications that captivate users.
-- Weave intuitive and visually striking interfaces for unparalleled user experiences.
-- Conjure seamless API integrations for efficient data enchantment.
-- Collaborate in the alchemy of cross-functional teams, thriving in the crucible of fast-paced environments.
+- Intuitive and visually striking interfaces for unparalleled user experiences.
+- Seamless API integrations for efficient data enchantment.
+- Collaborate with cross-functional teams, thriving in the crucible of fast-paced environments.
 
 ### 🌐 Let's Connect & Transform Ideas:
 
