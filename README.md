@@ -25,7 +25,7 @@ Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passion
 - **LinkedIn:** [Zain Ashraf](https://www.linkedin.com/in/zainashraf259)
 - **Facebook:** [Zain Ashraf](https://www.facebook.com/in/zainashraf259)
 - **Instagram:** [Zain Ashraf](https://www.instagram.com/in/zainashraf259)
-- **Twitter:** [Zain Ashraf](https://www.twitter.com/in/zainashraf259)
+- **Twitter:** [Zain Ashraf](https://www.x.com/zainashraf259)
 
 ### 🚀 Explore My Spellbook:
 
