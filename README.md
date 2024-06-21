@@ -22,12 +22,12 @@ Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passion
 
 ### 🌐 Let's Connect & Transform Ideas:
 
-- **LinkedIn:** [Zain Ashraf](https://www.linkedin.com/in/zainashraf259)
+- **LinkedIn:** [Zain Ashraf](https://www.linkedin.com/in/zainashrafofficial)
 - **Facebook:** [Zain Ashraf](https://www.facebook.com/in/zainashraf259)
 - **Instagram:** [Zain Ashraf](https://www.instagram.com/in/zainashraf259)
 - **Twitter:** [Zain Ashraf](https://www.x.com/zainashraf259)
 
-- **Portfolio Website:** [Zain Ashraf Official](https://zainashrafofficial.com/)
+- **Portfolio Website:** [Zain Ashraf Official](https://zainashrafofficial.com)
 
 ### 🚀 Explore My Spellbook:
 
