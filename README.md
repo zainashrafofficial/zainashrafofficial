@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | Full Stack Developer | Designer 🎨
 
-Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passionate Full Stack Web Developer and Designer, on a mission to transform ideas into stunning digital experiences.
+Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passionate Software Engineer, Full Stack Web Developer and Designer, on a mission to transform ideas into stunning digital experiences.
 
 ### 💻 Technical Expertise:
 
