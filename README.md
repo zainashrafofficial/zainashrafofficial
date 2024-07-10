@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer | Full Stack Developer | Designer 🎨
 
-Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passionate Software Engineer, Full Stack Web Developer and Designer, on a mission to transform ideas into stunning digital experiences.
+Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passionate Software Engineer, Full Stack Web Developer, and Designer, on a mission to transform ideas into stunning digital experiences.
 
 ### 💻 Technical Expertise:
 
@@ -10,8 +10,8 @@ Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passion
 - **Back-End Technologies:** PHP, NodeJS, ExpressJS
 - **Database Design:** SQL, MS Access, MySQL, MongoDB
 - **Design Enchantment:** Adobe Photoshop, Canva
-- **Tools :** MS Office, Visual Studio Code, Xampp, Postman, Visual Studio and other IDEs
-- **Moreover :** C++, C# and Dot Net Framework(desktop development)
+- **Tools:** MS Office, Visual Studio Code, Xampp, Postman, Visual Studio and other IDEs
+- **Moreover:** C++, C# & Dot Net Framework(Desktop Development) and WordPress CMS(Themes, Plugins, & Elementor Page Building)
 
 ### ✨ What I Do:
 
@@ -31,6 +31,6 @@ Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passion
 
 ### 🚀 Explore My Spellbook:
 
-Feel free to delve into my repositories and witness the magic I've conjured. I'm committed to staying on the cutting edge, ensuring I provide spellbinding solutions with the latest industry trends and technologies.
+Feel free to go into my repositories and witness the magic I've got. I'm committed to staying on the cutting edge, providing spellbinding solutions with the latest industry trends and technologies.
 
 Thank you for stepping into the enchanting realm of my creations! ✨🚀
