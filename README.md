@@ -1,8 +1,8 @@
 # Hi there, I'm Zain Ashraf 👋
 
-## 🚀 Software Engineer | Full Stack Developer | Designer 🎨
+## Software Engineer | Full Stack Developer | Designer
 
-Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passionate Software Engineer, Full Stack Web Developer, and Designer, on a mission to transform ideas into stunning digital experiences.
+Welcome to Zain Ashraf Official's vibrant corner of the digital universe! I'm Zain Ashraf, a Pakistan-based Software Engineer and Full Stack Website Developer & Designer living in Burewala, on a mission to transform ideas into stunning digital experiences.
 
 ### 💻 Technical Expertise:
 
@@ -31,6 +31,6 @@ Welcome to my vibrant corner of the digital universe! I'm Zain Ashraf, a passion
 
 ### 🚀 Explore My Spellbook:
 
-Feel free to go into my repositories and witness the magic I've got. I'm committed to staying on the cutting edge, providing spellbinding solutions with the latest industry trends and technologies.
+Feel free to go into Zain Ashraf repositories and witness the magic I've got. I'm committed to staying on the cutting edge, providing spellbinding solutions with the latest industry trends and technologies.
 
-Thank you for stepping into the enchanting realm of my creations! ✨🚀
+Thank you for stepping into the enchanting realm of Zain Ashraf creations!
