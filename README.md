@@ -1,8 +1,8 @@
 # Hi there, I'm Zain Ashraf 👋
 
-## Software Engineer | Full Stack Developer | Designer
+## Software Engineer | Full Stack Developer | Designer | Working at Hywiz Technologies (SMC Pvt.) Ltd.
 
-Welcome to Zain Ashraf Official's vibrant corner of the digital universe! I'm Zain Ashraf, a Pakistan-based Software Engineer and Full Stack Website Developer & Designer living in Burewala, on a mission to transform ideas into stunning digital experiences.
+Welcome to Zain Ashraf Official's vibrant corner of the digital universe! I'm Zain Ashraf, a Pakistan-based Software Engineer, Full-Stack Website Developer, and Designer living in Burewala. I am on a mission to transform ideas into stunning digital experiences.
 
 ### 💻 Technical Expertise:
 
