@@ -22,13 +22,13 @@ Welcome to Zain Ashraf Official's vibrant corner of the digital universe! I'm Za
 
 ### 🌐 Let's Connect & Transform Ideas:
 
-- **LinkedIn:** [Zain Ashraf](https://www.linkedin.com/in/zainashrafofficial)
-- **Facebook:** [Zain Ashraf](https://www.facebook.com/in/zainashraf259)
-- **Instagram:** [Zain Ashraf](https://www.instagram.com/in/zainashraf259)
-- **Twitter:** [Zain Ashraf](https://www.x.com/zainashraf259)
+- **LinkedIn:** [Zain Ashraf LinkedIn Profile](https://www.linkedin.com/in/zainashrafofficial)
+- **Facebook:** [Zain Ashraf Facebook Profile](https://www.facebook.com/in/zainashraf259)
+- **Instagram:** [Zain Ashraf Instagram Profile](https://www.instagram.com/in/zainashraf259)
+- **Twitter:** [Zain Ashraf Twitter(X) Profile](https://www.x.com/zainashraf259)
 
 - **Portfolio Website:** [Zain Ashraf Official](https://zainashrafofficial.com)
-- **Company Website:** [Hywiz Technologies (SMC PVT.) Ltd. - Software Development & Digital Marketing Company ](https://hywiz.com/)
+- **Company Website:** [Hywiz Technologies (SMC PVT.) Ltd. - Software Development & Digital Marketing Company](https://hywiz.com/)
 - **Company Website:** [NetHostKing - Best Web Hosting Company](https://nethostking.com)
 
 ### 🚀 Explore My Spellbook:
