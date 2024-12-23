@@ -28,9 +28,11 @@ Welcome to Zain Ashraf Official's vibrant corner of the digital universe! I'm Za
 - **Twitter:** [Zain Ashraf](https://www.x.com/zainashraf259)
 
 - **Portfolio Website:** [Zain Ashraf Official](https://zainashrafofficial.com)
+- **Company Website:** [Hywiz Technologies (SMC PVT.) Ltd. - Software Development & Digital Marketing Company ](https://hywiz.com/)
+- **Company Website:** [NetHostKing - Best Web Hosting Company](https://nethostking.com)
 
 ### 🚀 Explore My Spellbook:
 
-Feel free to go into Zain Ashraf repositories and witness the magic I've got. I'm committed to staying on the cutting edge, providing spellbinding solutions with the latest industry trends and technologies.
+Feel free to go into Zain Ashraf's repositories and witness the magic I've got. I'm committed to staying on the cutting edge, providing spellbinding solutions with the latest industry trends and technologies.
 
-Thank you for stepping into the enchanting realm of Zain Ashraf creations!
+Thank you for stepping into the enchanting realm of Zain Ashraf's creations!
