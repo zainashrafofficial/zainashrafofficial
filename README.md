@@ -26,6 +26,7 @@ Welcome to Zain Ashraf Official's vibrant corner of the digital universe! I'm Za
 - **Facebook:** [Zain Ashraf Facebook Profile](https://www.facebook.com/in/zainashraf259)
 - **Instagram:** [Zain Ashraf Instagram Profile](https://www.instagram.com/in/zainashraf259)
 - **Twitter:** [Zain Ashraf Twitter(X) Profile](https://www.x.com/zainashraf259)
+- **LeetCode:** [Zain Ashraf LeetCode Profile](https://leetcode.com/u/Zain_Ashraf/)
 
 - **Portfolio Website:** [Zain Ashraf Official](https://zainashrafofficial.com)
 - **Company Website:** [Hywiz Technologies (SMC PVT.) Ltd. - Software Development & Digital Marketing Company](https://hywiz.com/)
