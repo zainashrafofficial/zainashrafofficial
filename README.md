@@ -9,8 +9,8 @@ Welcome to Zain Ashraf Official's vibrant corner of the digital universe! I'm Za
 - **Front-End Technologies:** HTML, CSS, JavaScript, Bootstrap 5, jQuery, React JS, Next JS
 - **Back-End Technologies:** PHP, NodeJS, ExpressJS
 - **Database Design:** SQL, MS Access, MySQL, MongoDB
-- **Design Enchantment:** Adobe Photoshop, Canva
-- **Tools:** MS Office, Visual Studio Code, Xampp, Postman, Visual Studio and other IDEs
+- **Design Enchantment:** Adobe Photoshop, Figma, Canva
+- **Tools:** MS Office, Visual Studio Code, Xampp, Postman, Android Studio, Visual Studio, and other IDEs
 - **Moreover:** C++, C# & Dot Net Framework(Desktop Development) and WordPress CMS(Themes, Plugins, & Elementor Page Building)
 
 ### ✨ What I Do:
